@@ -747,7 +747,7 @@ input[type=number] {
     transform: translate(-50%, -50%);
     background: transparent;
     border: 0.1rem solid rgba(202, 46, 46, 0.25);
-    border-radius: 1.3rem;
+    border-radius: 1.4rem;
   }
   .install__item:hover .install__text {
     width: 96%;
